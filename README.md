@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 
-https://img.shields.io/badge/<badge>-<React>-<red>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
