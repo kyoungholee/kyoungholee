@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 
 
-https://img.shields.io/badge/<LABEL>-<React>-<red>
+https://img.shields.io/badge/<badge>-<React>-<red>
