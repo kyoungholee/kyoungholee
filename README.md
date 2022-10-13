@@ -1,5 +1,5 @@
-hi~ Im kyounghoLee 
-Im developing to make Services that will  improve our lives
+hi~ I'm kyounghoLee 
+I'm developing to make Services that will  improve our lives
 
 Here are some ideas to get you started:
 
